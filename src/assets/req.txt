@@ -1,0 +1,47 @@
+Navbar:
+  -About
+  -Skills
+  -Experience
+  -Projects
+  -Education
+  -Resume
+  -Contact
+
+Body
+  - About:
+     - Name, College, current company and role
+     - Small intro related to work experience and projects and interests
+     - Hobbies
+
+  - Skills:
+      - C/C++
+      - Python
+      - Javascript
+      - Airflow
+      - Streamlit
+      - Node js
+      - express
+      - Machine Learning
+      - openai
+
+
+  - Experience:
+      - Vymo (05/2023 - Present) (MTS - DSE/AI)
+      - Vymo (01/203 - 04/2023) (SWE Intern)
+      - NIT Silchar (05/2022 - 07/2022) (Research Intern) (*Project)
+
+  - Projects:
+      - Music Genre classification
+      - Customer Churn Prediction
+
+
+  - Education:
+      - NIT Silchar (07/2019 - 05/2023) (CGPA: 8.43)
+      - Sasi Edu. Institutes (06/2017 - 04/2019) (983/1000)
+      - Montessori EM School (2017) (GPA: 9.8)
+
+  - Contact:
+       - Phone
+       - Email
+       - Linkedin
+       - Place
